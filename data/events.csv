@@ -1,7 +1,7 @@
 Device ID,Last Updated,Zone,Is Misplaced,Battery Level,Charging,Last Movement,Last Use,User,Objects Seen,Products Seen
 D1,10/24/23 8:10,Produce,TRUE,50,FALSE,10/24/23 7:00,10/24/23 7:00,Ralph,"Pile of apples, watermelon",
 D2,10/24/23 8:00,Frozen,FALSE,50,FALSE,10/24/23 8:00,10/24/23 8:38,Susie,"door, exit sign",
-D3,10/24/23 8:00,Loading Bay,FALSE,10,FALSE,10/24/23 8:00,10/24/23 8:00,Marie,watermelon,
+D3,10/24/23 8:00,Loading Bay,FALSE,10,TRUE,10/24/23 8:00,10/24/23 8:00,Marie,watermelon,
 D4,10/24/23 8:10,Produce,FALSE,30,FALSE,10/24/23 8:00,10/24/23 8:38,Kevin,oranges,
 D5,10/24/23 8:10,Backroom,FALSE,80,TRUE,10/24/23 7:00,10/24/23 8:40,,"door, lights",
-D6,10/24/23 8:10,Dairy,FALSE,80,FALSE,10/24/23 8:10,10/24/23 8:10,John,"Pile of apples, watermelon",
+D6,10/24/23 9:03,Dairy,FALSE,80,FALSE,10/24/23 8:10,10/24/23 8:10,John,"Pile of apples, watermelon",
